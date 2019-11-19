@@ -1,19 +1,36 @@
 .title{
+
   color:black;
-  font-size:100px;
+  font-size:50px;
   text-align: center;
-
 }
 
-header{
-  height:10px
-  background-image: url(https://scontent.fakl2-1.fna.fbcdn.net/v/t1.0-9/11928723_754206954689878_6691415016412597708_n.jpg?_nc_cat=109&_nc_oc=AQlxEznu5L2kcA9VhU7H6SCTiCgC0patwDE2DNRQzPrSCDnZHKZ_ejtD-906PfiTReQ&_nc_ht=scontent.fakl2-1.fna&oh=28062f2ea819713e703779770b2a9f32&oe=5E486119);
-  background-size: auto;
+.title-photo{
+  float:rigth;
+  height:350px;
+  weight:350px;
 }
 
+.profile {
+  margin-bottom:50px;
+}
 
-.action-title{
-  text-align: center;
+.profile p{
+  font-size:30px
+}
+
+.action img{
+  float:right;
+  height:200px;
+  width:200px
+}
+
+.action-title h2{
+  font-size:20px;
+}
+
+.action-title p{
+  font-size:10px;
 }
 
 .will-action{
