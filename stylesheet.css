@@ -6,7 +6,7 @@
 }
 
 .title-photo{
-  float:rigth;
+  float:center;
   height:350px;
   weight:350px;
 }
@@ -34,6 +34,5 @@
 }
 
 .will-action{
-  text-align: center;
   padding-top:50px;
 }
